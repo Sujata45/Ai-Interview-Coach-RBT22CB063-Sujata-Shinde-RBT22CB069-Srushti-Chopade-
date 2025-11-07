@@ -5,3 +5,4 @@ This is a minimal, text-only AI interview assistant that:
 - Accepts typed answers
 - Provides feedback and scores
 - Saves interview log to a JSON file
+
