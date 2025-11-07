@@ -1,0 +1,32 @@
+[
+  {
+    "Question": "Tell me about yourself and your experience.",
+    "Candidate Answer": "what are u doin ",
+    "Evaluation": 2.0,
+    "Feedback": "'*What are u doin*' is an unprofessional and dismissive response to a fundamental interview question. The candidate’s resume highlights strong technical projects (e.g., bilingual ISL app, AI skincare system) and relevant internships at **Cognizant**, demonstrating collaboration and problem-solving skills. However, the lack of effort in articulating these experiences—paired with poor communication—raises concerns about **preparation, professionalism, and alignment with the role** (even if the JD is unclear). A structured response linking skills to job needs was expected. **Critical miss.**"
+  },
+  {
+    "Question": "'What are u doin' seems like a casual response—let’s refocus! Your resume highlights impressive projects like the **bilingual Marathi-to-ISL app** and the **AI skincare system**, both of which blend technical skills with social impact. Could you walk me through the **biggest technical challenge** you faced while building one of these projects and how you overcame it? For example, did you encounter limitations with the datasets, model accuracy, or integration hurdles?",
+    "Candidate Answer": "yes , while doing project i had faced several challenges one of the was data - it was low in quatity , poor quality but we solve these problem using customize dataset",
+    "Evaluation": 0.0,
+    "Feedback": "No feedback available."
+  },
+  {
+    "Question": "Can you elaborate further?",
+    "Candidate Answer": "yes \n\n\n\n\n",
+    "Evaluation": 3.0,
+    "Feedback": "'Yes' is an overly brief response that misses the opportunity to showcase depth. Given your strong projects (e.g., **bilingual ISL app**, **AI skincare system**) and internship experience at **Cognizant**, you could have expanded on *specific* technical challenges faced, tools used (e.g., **ReactJS, AWS**), or measurable outcomes (e.g., user adoption, efficiency gains). For a **Kaggle**-related role (assuming data/ML focus), highlight analytical problem-solving or collaboration examples. **Score suffers due to lack of detail**—aim for structured, quantifiable insights next time."
+  },
+  {
+    "Question": "Can you elaborate further?",
+    "Candidate Answer": "we had contacted the mute people to record themselves we took help from expert system etc ",
+    "Evaluation": 0.0,
+    "Feedback": "No feedback available."
+  },
+  {
+    "Question": "Can you elaborate further?",
+    "Candidate Answer": "Could you walk me through the biggest technical challenge you faced while building one of these projects and how you overcame ",
+    "Evaluation": 0.0,
+    "Feedback": "No feedback available."
+  }
+]
